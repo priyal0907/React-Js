@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "fcgh",
+      "author": "pooo",
+      "id": 1
+    },
+    {
+      "title": "gfhjh",
+      "author": "fcvcb",
+      "id": 2
+    },
+    {
+      "title": "gfhjh",
+      "author": "fcvcb",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
